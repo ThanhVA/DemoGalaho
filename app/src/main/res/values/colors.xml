@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="text_color_light_navy">#142e7a</color>
+    <color name="greyish">#b6b5b5</color>
+    <color name="white_three">#eaeaea</color>
+    <color name="text_black">#000000</color>
+    <color name="text_gray">#818181</color>
+    <color name="colorGray">#a3a3a3</color>
+    <color name="background_detail_artist">#f2f2f2</color>
+    <color name="background_view_line">#dcdcdc</color>
+    <color name="focus">#001b93</color>
+    <color name="press">#021de6</color>
+    <color name="normal">#cacaca</color>
+    <color name="pressed_subkey">#00a4c1</color>
+</resources>
